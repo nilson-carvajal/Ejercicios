@@ -1,0 +1,20 @@
+.nav-enlace{
+    display: inline-block;
+    
+    background: sandybrown;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 30px;
+
+
+}
+.nav-enlace:hover{
+    background: blue;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+nav{
+    background: violet;
+    padding: 10px;
+}
